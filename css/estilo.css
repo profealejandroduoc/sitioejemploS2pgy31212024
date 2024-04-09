@@ -6,3 +6,19 @@
 } 
 
 */
+.drophovercustom
+{
+    color:white
+}
+.drophovercustom:hover{
+    background: #ff5454;
+    color: white;
+    
+}
+
+.sesiontext:hover{
+    color:white;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+    transition: 0.3s;
+    
+}
